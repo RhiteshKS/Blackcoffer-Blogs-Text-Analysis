@@ -1,0 +1,6 @@
+re
+nltk
+beautifulsoup4
+pandas
+requests
+lxml
